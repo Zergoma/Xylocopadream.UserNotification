@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Description>UI-agnostic abstraction (INotificationService) to show error, warning and info messages to the user.</Description>
+    <PackageTags>notification;ui;abstractions</PackageTags>
+  </PropertyGroup>
+
+</Project>

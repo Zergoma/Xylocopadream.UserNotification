@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Xylocopadream.UserNotification/Xylocopadream.UserNotification.csproj" />
+    <Project Path="src/Xylocopadream.UserNotification.Maui/Xylocopadream.UserNotification.Maui.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="README.md" />
+    <File Path="publish.ps1" />
+  </Folder>
+</Solution>
